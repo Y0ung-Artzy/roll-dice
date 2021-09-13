@@ -1,0 +1,30 @@
+body {
+  margin: 3% auto;
+  background-color: #fff;
+  color: blue;
+}
+
+.container {
+  text-align: center;
+}
+
+.roll {
+  font-size: 50px;
+}
+
+h2 {
+  margin-top: -30px;
+}
+
+.playerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.dice1,
+.dice2 {
+  font-size: 150px;
+  display: block;
+}
